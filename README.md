@@ -1,0 +1,2 @@
+# AIGC-doc
+aigc document
